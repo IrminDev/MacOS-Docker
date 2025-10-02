@@ -22,6 +22,7 @@ Si se piensa ejecutar con el sistema operativo de windows, se requiere:
 
 Primero, debe de activarse dentro de docker Deskop la opción de habilitar la distribución por defecto de WSL, esto se encuentra dentro de `settings > resources > WSL Integration`, aquí deberá activarse la casilla de `Enable integration with my default WSL distro` y seleccionar la distribución a utilizar.
 
+![step6](./assets/docker1.png)
 
 
 Dentro de la distribución, se deberá de editar el archivo .wslconfig, esto se puede con el siguiente comando:
